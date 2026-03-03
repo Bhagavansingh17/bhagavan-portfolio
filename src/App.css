@@ -230,3 +230,50 @@ textarea {
     display: flex;
   }
 }
+/* ===== Contact Form (Readable + Premium) ===== */
+form {
+  max-width: 700px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.14);
+  outline: none;
+
+  /* Better contrast */
+  background: rgba(255, 255, 255, 0.08);
+  color: #f8fafc;
+
+  font-size: 16px;
+  transition: 0.25s ease;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: rgba(248, 250, 252, 0.65);
+}
+
+input:focus, textarea:focus {
+  border-color: rgba(139, 92, 246, 0.75);
+  box-shadow: 0 0 0 4px rgba(139, 92, 246, 0.18);
+  background: rgba(255, 255, 255, 0.10);
+}
+
+textarea {
+  min-height: 140px;
+  resize: vertical;
+}
+
+/* Make links readable too */
+#contact a {
+  color: #a78bfa;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
