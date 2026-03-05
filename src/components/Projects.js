@@ -18,7 +18,7 @@ function Projects() {
             <strong>Tech:</strong> Java, Spring Boot, MySQL, JPA, Swagger
           </p>
           <a
-            href="https://github.com/Bhagavansingh17/banking-api"
+            href="https://github.com/Bhagavansingh17/springboot-banking-api"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -57,7 +57,7 @@ function Projects() {
             <strong>Tech:</strong> React, HTML, CSS, GitHub Pages
           </p>
           <a
-            href="https://github.com/Bhagavansingh17"
+            href="https://github.com/Bhagavansingh17/bhagavan_singh-portfolio"
             target="_blank"
             rel="noopener noreferrer"
           >
