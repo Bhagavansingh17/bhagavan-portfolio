@@ -8,7 +8,7 @@ function Hero() {
         {/* Left Content */}
         <div className="hero-text">
           <h1>Hi, I'm B Bhagavan Singh</h1>
-          <h3>Computer Science Engineering Student | Software Developer</h3>
+          <h3>Information Science Engineering Student | Software Developer</h3>
           <p>
             Aspiring Software & Web Developer passionate about problem solving 
             and building impactful projects.

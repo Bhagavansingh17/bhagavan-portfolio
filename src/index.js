@@ -9,4 +9,3 @@ AOS.init();
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
-<section id="about" data-aos="fade-up"></section>
